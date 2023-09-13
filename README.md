@@ -2,9 +2,9 @@
 
 I'm currently learning Python and have some experiance in:
 
-- C# (through game developement in Unity
+- C# (through game developement in Unity)
 
-- JavaScript (learned it in school)
+- JavaScript (learned in school)
 
 <!---
 TobiasBlm/TobiasBlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
