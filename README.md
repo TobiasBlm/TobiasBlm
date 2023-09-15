@@ -4,7 +4,7 @@ I'm currently learning Python and have some experiance in:
 
 - C# (through game developement in Unity)
 
-- JavaScript (learned in school)
+- Java (learned in school)
 
 <!---
 TobiasBlm/TobiasBlm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
