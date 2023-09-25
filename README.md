@@ -2,6 +2,8 @@
 
 I'm currently learning Python and have some experiance in:
 
+-HTML, CSS (Website for school project) 
+
 - C# (through game developement in Unity)
 
 - Java (learned in school)
