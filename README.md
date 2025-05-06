@@ -1,6 +1,6 @@
 # Hi, I’m Tobias👋
 
-I'm currently learning Python and have some experiance in:
+I'm currently learning Python and have some experience in:
 
 - HTML, CSS (Website for school project) 
 
